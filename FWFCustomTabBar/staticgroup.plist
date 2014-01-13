@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirstSection</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>AlbumAddWeiboBigHL.png</string>
+			<key>name</key>
+			<string>埋伏圈</string>
+		</dict>
+	</array>
+	<key>SecondSection</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>AlbumAddTwitterBigHL.png</string>
+			<key>name</key>
+			<string>飞一飞</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>AlbumAddWeiboBigHL.png</string>
+			<key>name</key>
+			<string>晃一晃</string>
+		</dict>
+	</array>
+	<key>ThirdSection</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>AlbumAddTwitterBigHL.png</string>
+			<key>name</key>
+			<string>鸟人</string>
+		</dict>
+	</array>
+</dict>
+</plist>

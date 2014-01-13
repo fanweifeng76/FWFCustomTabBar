@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirstSection</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>Action_facebook.png</string>
+			<key>name</key>
+			<string>Frank Baby</string>
+			<key>detailname</key>
+			<string>联系方式： Frank Fan</string>
+		</dict>
+	</array>
+	<key>SecondSection</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>MoreMyAlbum.png</string>
+			<key>name</key>
+			<string>我的容颜</string>
+			<key>detailname</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>MoreMyFavorites.png</string>
+			<key>name</key>
+			<string>我的癖好</string>
+			<key>detailname</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>MoreMyBankCard.png</string>
+			<key>name</key>
+			<string>我的钱包</string>
+			<key>detailname</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>ThirdSection</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>MoreExpressionShops.png</string>
+			<key>name</key>
+			<string>超市卖场</string>
+			<key>detailname</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>FourthSection</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>MoreSetting.png</string>
+			<key>name</key>
+			<string>我的配置</string>
+			<key>detailname</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
